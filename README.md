@@ -1,10 +1,8 @@
-Hi 👋 My name is Apoorva Kaniti
+Hi 👋 I'm Apoorva
 ===============================
 
-Full Stack Web Developer
+A passionate Web Developer
 ------------------------
-
-I started my web development journey with HTML and CSS which interested me into learning MERN Stack as well.
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [apoorvakaniti31@gmail.com](mailto:apoorvakaniti31@gmail.com)
